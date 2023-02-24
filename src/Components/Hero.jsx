@@ -11,7 +11,7 @@ const Hero = () => {
 
   const fetchPosts = async () => {
     const limit = 2;
-    const url = `https://blog-server-production-de84.up.railway.app/api/posts?page=1&limit=${limit}`;
+    const url = `https://lyrical-deer-production.up.railway.app/api/posts?page=1&limit=${limit}`;
     setPosts({loading: true});
 
     const data = await fetch(url);
