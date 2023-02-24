@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dt-blog/static/css/main.7caacb70.css",
+    "main.js": "/dt-blog/static/js/main.2f952192.js",
+    "static/js/787.f587e8d5.chunk.js": "/dt-blog/static/js/787.f587e8d5.chunk.js",
+    "static/media/space.jpg": "/dt-blog/static/media/space.9bbef5ed559fc240cdc6.jpg",
+    "static/media/ProximaNovaCondensedBold.otf": "/dt-blog/static/media/ProximaNovaCondensedBold.9db2ad7f208544018930.otf",
+    "static/media/ProximaNovaCondensedRegular.otf": "/dt-blog/static/media/ProximaNovaCondensedRegular.36659b2ee9fd0cc9c66d.otf",
+    "static/media/ProximaNovaCondensedSemibold.otf": "/dt-blog/static/media/ProximaNovaCondensedSemibold.bd32cba85bb5ad2a16ff.otf",
+    "static/media/ProximaNovaFont.otf": "/dt-blog/static/media/ProximaNovaFont.7bc9ce404c297c24f210.otf",
+    "static/media/coding.jpeg": "/dt-blog/static/media/coding.af2927f58fe5e3d4c3a1.jpeg",
+    "static/media/instagram-icon.svg": "/dt-blog/static/media/instagram-icon.ba01fa545155dae04a0c40b281a2c6ae.svg",
+    "static/media/twitter-icon.svg": "/dt-blog/static/media/twitter-icon.183bc134f0e103501db1320adbfc4aac.svg",
+    "index.html": "/dt-blog/index.html",
+    "static/media/linkedin-icon.svg": "/dt-blog/static/media/linkedin-icon.e6caf06bea36e8c1fd7545706cd71c86.svg",
+    "static/media/menu-icon.svg": "/dt-blog/static/media/menu-icon.69707d7401c01382651c5c630dc731f2.svg",
+    "static/media/xmark-icon.svg": "/dt-blog/static/media/xmark-icon.5ef1222a816bde743a175e947811d385.svg",
+    "static/media/facebook-icon.svg": "/dt-blog/static/media/facebook-icon.19ba143b89841a8ef5fd4fe64ad811f0.svg",
+    "static/media/arrow-icon.svg": "/dt-blog/static/media/arrow-icon.0d9f2f685ac075a52c551d2b59d9ec70.svg",
+    "main.7caacb70.css.map": "/dt-blog/static/css/main.7caacb70.css.map",
+    "main.2f952192.js.map": "/dt-blog/static/js/main.2f952192.js.map",
+    "787.f587e8d5.chunk.js.map": "/dt-blog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caacb70.css",
+    "static/js/main.2f952192.js"
+  ]
+}
