@@ -12,7 +12,7 @@ const Footer = () => {
   const [loading, setLoading] = useState(false);
 
   const subscribe = async () => {
-    const url = `http://localhost:5000/api/subscribe/`;
+    const url = `https://lyrical-deer-production.up.railway.app/api/subscribe/`;
     setLoading(true);
     console.log(email);
 
