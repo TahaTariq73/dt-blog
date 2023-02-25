@@ -58,7 +58,7 @@ export class BlogData extends Component {
                             return e;
                         }
                     }).map(e => {
-                        return <Card key={e._id} title={e.title} desc={e.desc} image={e.file} id={e._id} />
+                        return <Card key={e._id} title={e.title} desc={e.desc} image={e.image} id={e._id} />
                     })}
                 </div>
                 {this.state.loading && 
