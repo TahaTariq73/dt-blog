@@ -52,7 +52,7 @@ const Hero = () => {
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
                     {!posts.loading && posts.posts.map(e => {
-                        return <Card key={e._id} title={e.title} desc={e.desc} image={e.image} />
+                        return <Card key={e._id} title={e.title} desc={e.desc} image={e.image} id={e._id} />
                     })}
                 </div>
             </section>
