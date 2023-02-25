@@ -54,7 +54,7 @@ const Navbar = () => {
                     <h2 className=""> Blog </h2> 
                     <img src={arrowIcon} alt="" className="w-4" />
                 </Link>
-                <a href="https://www.linkedin.com/in/taha-tariq-12022b230/" rel="nonferrer" className="py-4 border-b border-b-gray-500 px-8 flex justify-between hover:bg-cyan-200"> 
+                <a href="https://www.linkedin.com/in/taha-tariq-12022b230/" target="_blank" rel="nonferrer" className="py-4 border-b border-b-gray-500 px-8 flex justify-between hover:bg-cyan-200"> 
                     <h2 className=""> About </h2> 
                     <img src={arrowIcon} alt="" className="w-4" />
                 </a>

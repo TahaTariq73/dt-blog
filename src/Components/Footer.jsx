@@ -82,7 +82,7 @@ const Footer = () => {
                 <h1 className=" font-proximaNovaBold text-2xl"> COMPANY </h1>
                 <ul className="mt-4 font-proximaNovaRegular">
                     <li className="my-2"> <Link to="/" className="hover:underline"> Home </Link> </li>
-                    <li className="my-2"> <p to="/about" className="hover:underline cursor-pointer"> About </p> </li>
+                    <li className="my-2"> <a href="https://www.linkedin.com/in/taha-tariq-12022b230/" target="_blank" rel="nonferrer" className="hover:underline cursor-pointer"> About </a> </li>
                     <li className="my-2"> <Link to="/blog" className="hover:underline"> Blog </Link> </li>
                     <li className="my-2"> <p to="/contact" className="hover:underline cursor-pointer"> Contact </p> </li>
                     <li className="my-2"> <p className="hover:underline cursor-pointer"> Privancy policy </p> </li>        
