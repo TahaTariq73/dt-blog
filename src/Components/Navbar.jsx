@@ -30,7 +30,7 @@ const Navbar = () => {
                     <ul className="flex font-proximaNovaSemiBold text-lg">
                         <li className="mx-.5"> <Link to="/" className="text-white p-4 transition-all hover:text-yellow-500"> Home </Link> </li>
                         <li className="mx-.5"> <Link to="/blog" className="text-white p-4 transition-all hover:text-yellow-500"> Blog </Link> </li>
-                        <li className="mx-.5"> <a href="https://www.linkedin.com/in/taha-tariq-12022b230/" rel="nonferrer" className="text-white p-4 transition-all hover:text-yellow-500"> About </a> </li>
+                        <li className="mx-.5"> <a target="_blank" href="https://www.linkedin.com/in/taha-tariq-12022b230/" rel="nonferrer" className="text-white p-4 transition-all hover:text-yellow-500"> About </a> </li>
                         <li className="mx-.5"> <a href="#footer" className="text-white p-4 transition-all hover:text-yellow-500"> Contact </a> </li>
                     </ul>
                 </div>
