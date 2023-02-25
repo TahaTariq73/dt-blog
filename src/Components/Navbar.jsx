@@ -23,7 +23,7 @@ const Navbar = () => {
     <div className="fixed w-full z-50">
         <div className="flex justify-between items-center w-full bg-black py-4 px-4 sm:px-12 md:px-16 lg:px-24">
             <div className="flex justify-center items-center">
-                <div className="text-white font-notoSerif font-semibold tracking text-xl sm:text-2xl cursor-pointer" onClick={() => window.location = '/'}>
+                <div className="text-white font-notoSerif font-semibold tracking text-xl sm:text-2xl cursor-pointer" onClick={() => window.location = '/bt-blog/'}>
                     <span> DT </span> <span> BLOGS </span> 
                 </div>
                 <div className="ml-16 hidden md:block">
